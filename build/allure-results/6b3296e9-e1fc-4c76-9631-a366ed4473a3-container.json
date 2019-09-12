@@ -1,0 +1,1 @@
+{"uuid":"6b3296e9-e1fc-4c76-9631-a366ed4473a3","name":"Scenario: Invite by Email","children":["0ac40bd8-a0bd-428d-a762-451849681b1f"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170130931,"stop":1567170130931}],"afters":[],"links":[],"start":1567170130931,"stop":1567170132732}

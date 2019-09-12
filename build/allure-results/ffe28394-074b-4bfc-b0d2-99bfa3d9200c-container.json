@@ -1,0 +1,1 @@
+{"uuid":"ffe28394-074b-4bfc-b0d2-99bfa3d9200c","name":"Scenario: Subscribe page","children":["05a3041e-538e-474a-a1a0-7f2ebe8f3c67"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170132735,"stop":1567170132735}],"afters":[],"links":[],"start":1567170132735,"stop":1567170137460}

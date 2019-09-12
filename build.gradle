@@ -1,0 +1,49 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath "io.qameta.allure:allure-gradle:2.5"
+    }
+}
+
+plugins {
+    id 'java'
+    id "com.github.spacialcircumstances.gradle-cucumber-reporting" version "0.1.8"
+}
+
+group 'com.zenio.ta'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'io.qameta.allure'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    jcenter()
+}
+
+allure {
+    version = '2.7.0'
+    aspectjweaver = true
+    autoconfigure = true
+    }
+
+dependencies {
+    testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.5.1'
+    testCompile 'com.codeborne:selenide:5.2.7'
+    testCompile 'io.cucumber:cucumber-java:4.3.1'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'io.cucumber', name: 'cucumber-junit', version: '4.7.1'
+    testCompile group: 'io.qameta.allure', name: 'allure-gradle', version: '2.5'
+    testCompile group: 'io.qameta.allure', name: 'allure-cucumber4-jvm', version: '2.12.1'
+    testCompile group: 'io.qameta.allure', name: 'allure-model', version: '2.12.1'
+    testCompile group: 'io.qameta.allure', name: 'allure-java-commons', version: '2.12.1'
+    testCompile group: 'io.qameta.allure', name: 'allure-junit4', version: '2.12.1'
+    testCompile group: 'io.qameta.allure', name: 'allure-selenide', version: '2.12.1'
+}

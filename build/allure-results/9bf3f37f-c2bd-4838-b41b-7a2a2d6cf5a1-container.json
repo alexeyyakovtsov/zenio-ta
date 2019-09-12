@@ -1,0 +1,1 @@
+{"uuid":"9bf3f37f-c2bd-4838-b41b-7a2a2d6cf5a1","name":"Scenario: Open Settings Page","children":["f99bd06a-a181-4383-816f-9a70b610c3f8"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170165129,"stop":1567170165135}],"afters":[],"links":[],"start":1567170165128,"stop":1567170174896}

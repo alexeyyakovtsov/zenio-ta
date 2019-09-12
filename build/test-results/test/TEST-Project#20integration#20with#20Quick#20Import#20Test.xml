@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Project integration with Quick Import Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-08-30T13:03:40" hostname="zensoft" time="9.266">
+  <properties/>
+  <testcase name="Create new project with integration and Quick Import" classname="Project integration with Quick Import Test" time="1.877"/>
+  <testcase name="Select all and Deselected all epics" classname="Project integration with Quick Import Test" time="0.278"/>
+  <testcase name="Create project with Make Activities" classname="Project integration with Quick Import Test" time="1.978"/>
+  <testcase name="Rename project with Quick Import" classname="Project integration with Quick Import Test" time="2.049"/>
+  <testcase name="Invite new member in project with Quick Import" classname="Project integration with Quick Import Test" time="0.989"/>
+  <testcase name="Delete project with Quick Import" classname="Project integration with Quick Import Test" time="2.085"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

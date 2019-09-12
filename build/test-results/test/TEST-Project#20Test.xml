@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Project Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-30T13:02:58" hostname="zensoft" time="19.839">
+  <properties/>
+  <testcase name="Create new project without integration" classname="Project Test" time="4.545"/>
+  <testcase name="Rename project" classname="Project Test" time="6.539"/>
+  <testcase name="Invite new member in project" classname="Project Test" time="4.637"/>
+  <testcase name="Delete project" classname="Project Test" time="4.112"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

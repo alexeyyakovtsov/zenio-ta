@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Project Health" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-08-30T13:03:18" hostname="zensoft" time="10.943">
+  <properties/>
+  <testcase name="Create project for Project Health" classname="Project Health" time="7.259"/>
+  <testcase name="Check status Perfect" classname="Project Health" time="0.433"/>
+  <testcase name="Check status Healthy" classname="Project Health" time="0.573"/>
+  <testcase name="Check status Unhealthy" classname="Project Health" time="0.525"/>
+  <testcase name="Check status Danger" classname="Project Health" time="2.148"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

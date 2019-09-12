@@ -1,0 +1,1 @@
+{"uuid":"8374a1d9-83d0-4486-b663-8ac7142e4731","name":"Scenario: Rename Workspace","children":["91989b96-92c4-4140-b276-5efb1a582f0f"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170230031,"stop":1567170230031}],"afters":[],"links":[],"start":1567170230031,"stop":1567170232349}

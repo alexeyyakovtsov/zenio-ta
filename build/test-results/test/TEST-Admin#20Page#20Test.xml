@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Admin Page Test" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-08-30T13:01:51" hostname="zensoft" time="21.032">
+  <properties/>
+  <testcase name="Sign Up for Early Access" classname="Admin Page Test" time="4.685"/>
+  <testcase name="Log in Zenio dev User = Admin" classname="Admin Page Test" time="13.039"/>
+  <testcase name="Open List of users" classname="Admin Page Test" time="0.744"/>
+  <testcase name="Open Early access list" classname="Admin Page Test" time="0.468"/>
+  <testcase name="Check email for Early Access" classname="Admin Page Test" time="0.113"/>
+  <testcase name="Approve user Early Acccess" classname="Admin Page Test" time="0.112"/>
+  <testcase name="Invite by Email" classname="Admin Page Test" time="1.803"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Aug 30, 2019 4:01:51 PM com.codeborne.selenide.drivercommands.LazyDriver getAndCheckWebDriver
+INFO: No webdriver is bound to current thread: 12 - let's create a new webdriver
+Starting ChromeDriver 76.0.3809.12 (220b19a666554bdcac56dff9ffd44c300842c933-refs/branch-heads/3809@{#83}) on port 11509
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Aug 30, 2019 4:01:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Aug 30, 2019 4:01:53 PM com.codeborne.selenide.webdriver.BrowserResizer adjustBrowserSize
+INFO: Set browser size to 1920x1080
+Aug 30, 2019 4:01:53 PM com.codeborne.selenide.webdriver.WebDriverFactory logBrowserVersion
+INFO: BrowserName=chrome Version=76.0.3809.132 Platform=LINUX
+Aug 30, 2019 4:01:53 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenide v. 5.2.7
+Aug 30, 2019 4:01:53 PM com.codeborne.selenide.webdriver.WebDriverFactory logSeleniumInfo
+INFO: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+Aug 30, 2019 4:01:53 PM com.codeborne.selenide.drivercommands.CreateDriverCommand createDriver
+INFO: Create webdriver in current thread 12: ChromeDriver -> ChromeDriver: chrome on LINUX (b8851fac2a6859df4f6c7c4b51819318)
+]]></system-err>
+</testsuite>

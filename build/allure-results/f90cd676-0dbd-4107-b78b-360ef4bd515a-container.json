@@ -1,0 +1,1 @@
+{"uuid":"f90cd676-0dbd-4107-b78b-360ef4bd515a","name":"Scenario: Change User Name","children":["9ffad4f2-8126-45c0-bcaf-7c9ca133efe3"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170174930,"stop":1567170174931}],"afters":[],"links":[],"start":1567170174930,"stop":1567170176239}

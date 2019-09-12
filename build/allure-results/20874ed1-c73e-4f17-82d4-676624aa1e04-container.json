@@ -1,0 +1,1 @@
+{"uuid":"20874ed1-c73e-4f17-82d4-676624aa1e04","name":"Scenario: Add Payment Method","children":["e7d7873a-fcfe-4af8-a96c-6480ff400df8"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170146732,"stop":1567170146732}],"afters":[],"links":[],"start":1567170146732,"stop":1567170153195}

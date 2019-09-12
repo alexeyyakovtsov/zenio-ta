@@ -1,0 +1,1 @@
+{"uuid":"6244189a-77c0-420c-b2e1-9617960548d4","name":"Scenario: Open List of users","children":["6a332223-b5c0-4ef2-8708-562d889e8eaf"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170129455,"stop":1567170129455}],"afters":[],"links":[],"start":1567170129453,"stop":1567170130199}

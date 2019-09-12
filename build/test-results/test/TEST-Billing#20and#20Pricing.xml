@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Billing and Pricing" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-30T13:02:12" hostname="zensoft" time="20.462">
+  <properties/>
+  <testcase name="Subscribe page" classname="Billing and Pricing" time="4.726"/>
+  <testcase name="Edit subscription details" classname="Billing and Pricing" time="7.008"/>
+  <testcase name="Cancel subscription" classname="Billing and Pricing" time="2.22"/>
+  <testcase name="Add Payment Method" classname="Billing and Pricing" time="6.466"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

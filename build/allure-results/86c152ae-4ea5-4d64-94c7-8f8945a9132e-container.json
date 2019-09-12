@@ -1,0 +1,1 @@
+{"uuid":"86c152ae-4ea5-4d64-94c7-8f8945a9132e","name":"Scenario: Delete project","children":["ba1571b2-9e34-44ae-8ff3-9c4ab572f616"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170194334,"stop":1567170194334}],"afters":[],"links":[],"start":1567170194334,"stop":1567170198445}

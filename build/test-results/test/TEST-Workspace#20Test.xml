@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Workspace Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-30T13:03:50" hostname="zensoft" time="3.093">
+  <properties/>
+  <testcase name="Rename Workspace" classname="Workspace Test" time="2.321"/>
+  <testcase name="Workspace - List of Members" classname="Workspace Test" time="0.77"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

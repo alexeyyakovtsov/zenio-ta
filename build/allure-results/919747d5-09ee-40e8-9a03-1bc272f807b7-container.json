@@ -1,0 +1,1 @@
+{"uuid":"919747d5-09ee-40e8-9a03-1bc272f807b7","name":"Scenario: Rename project","children":["904bc414-bd12-4540-9a8c-10a50f1c7e61"],"befores":[{"name":"SettingsSteps.SettingsBrowser()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1567170183155,"stop":1567170183155}],"afters":[],"links":[],"start":1567170183155,"stop":1567170189693}

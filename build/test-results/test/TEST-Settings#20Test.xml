@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Settings Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-08-30T13:02:45" hostname="zensoft" time="13.475">
+  <properties/>
+  <testcase name="Open Settings Page" classname="Settings Test" time="9.769"/>
+  <testcase name="Change User Name" classname="Settings Test" time="1.309"/>
+  <testcase name="Change User Password" classname="Settings Test" time="2.359"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

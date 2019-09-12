@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CLI Documentation" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-30T13:02:33" hostname="zensoft" time="2.699">
+  <properties/>
+  <testcase name="Open CLI Documentation page" classname="CLI Documentation" time="2.699"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
